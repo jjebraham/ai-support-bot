@@ -1,0 +1,30 @@
+{"id": "q01", "question": "How long does standard delivery take?", "expect": "answer", "source": "shipping.md#Delivery times", "keywords": ["3 to 5 business days"]}
+{"id": "q02", "question": "If I order express at 15:00, when does it ship?", "expect": "answer", "source": "shipping.md#Delivery times", "keywords": ["next business day"]}
+{"id": "q03", "question": "What is the price of express delivery?", "expect": "answer", "source": "shipping.md#Shipping prices", "keywords": ["12.90"]}
+{"id": "q04", "question": "How much extra for a 10 kg parcel?", "expect": "answer", "source": "shipping.md#Shipping prices", "keywords": ["1.50"]}
+{"id": "q05", "question": "Who pays customs duties for non-EU countries?", "expect": "answer", "source": "shipping.md#International shipping", "keywords": ["recipient"]}
+{"id": "q06", "question": "Can I send lithium batteries?", "expect": "answer", "source": "shipping.md#Restricted items", "keywords": ["lithium batteries"]}
+{"id": "q07", "question": "What does a tracking number look like?", "expect": "answer", "source": "tracking.md#Tracking number", "keywords": ["PCL"]}
+{"id": "q08", "question": "How quickly do tracking updates appear after a scan?", "expect": "answer", "source": "tracking.md#Tracking status", "keywords": ["2 hours"]}
+{"id": "q09", "question": "Tracking says delivered but my parcel is missing, what should I do?", "expect": "answer", "source": "tracking.md#Missing parcel", "keywords": ["48 hours"]}
+{"id": "q10", "question": "How many days do I have to return an item?", "expect": "answer", "source": "returns.md#Return window", "keywords": ["30 days"]}
+{"id": "q11", "question": "Is the return label free?", "expect": "answer", "source": "returns.md#How to return", "keywords": ["50 EUR"]}
+{"id": "q12", "question": "When will I get my refund?", "expect": "answer", "source": "returns.md#Refund timing", "keywords": ["7 business days"]}
+{"id": "q13", "question": "Are shipping fees refunded?", "expect": "answer", "source": "returns.md#Refund timing", "keywords": ["not refunded"]}
+{"id": "q14", "question": "My item arrived damaged, how do I claim?", "expect": "answer", "source": "returns.md#Damaged items", "keywords": ["photos"]}
+{"id": "q15", "question": "Which payment methods do you accept?", "expect": "answer", "source": "billing.md#Payment methods", "keywords": ["PayPal"]}
+{"id": "q16", "question": "Where can I download my invoices?", "expect": "answer", "source": "billing.md#Invoices", "keywords": ["Billing page"]}
+{"id": "q17", "question": "My card payment failed, what happens to my order?", "expect": "answer", "source": "billing.md#Failed payments", "keywords": ["24 hours"]}
+{"id": "q18", "question": "Which currency are prices charged in?", "expect": "answer", "source": "billing.md#Currency", "keywords": ["EUR"]}
+{"id": "q19", "question": "How do I reset my password?", "expect": "answer", "source": "account.md#Reset your password", "keywords": ["Forgot password"]}
+{"id": "q20", "question": "Can I change the delivery address after the courier has the parcel?", "expect": "answer", "source": "account.md#Change delivery address", "keywords": ["no longer be changed"]}
+{"id": "q21", "question": "How do I delete my account?", "expect": "answer", "source": "account.md#Delete your account", "keywords": ["Privacy"]}
+{"id": "q22", "question": "When are human support agents available?", "expect": "answer", "source": "account.md#Support hours", "keywords": ["09:00 to 18:00"]}
+{"id": "q23", "question": "Do you deliver to Japan?", "expect": "escalate"}
+{"id": "q24", "question": "What is the name of your CEO?", "expect": "escalate"}
+{"id": "q25", "question": "Can I pay with Bitcoin?", "expect": "escalate"}
+{"id": "q26", "question": "I want to speak to a lawyer about my lost order PCL0000000000", "expect": "escalate"}
+{"id": "q27", "question": "Do you have a mobile app for iPhone?", "expect": "escalate"}
+{"id": "q28", "question": "Can I ship a bottle of perfume spray?", "expect": "escalate"}
+{"id": "q29", "question": "What is the weather in Istanbul today?", "expect": "escalate"}
+{"id": "q30", "question": "Do you offer same-day delivery on Sundays?", "expect": "escalate"}

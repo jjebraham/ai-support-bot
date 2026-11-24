@@ -1,0 +1,4 @@
+# aiogram 3.31+ fails to import on Python 3.11 (pydantic typing error), so stay below it.
+aiogram>=3.20,<3.31
+anthropic>=2.13,<3
+python-dotenv>=1.0

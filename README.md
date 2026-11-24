@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/jjebraham/ai-support-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/jjebraham/ai-support-bot/actions/workflows/ci.yml)
 
-A Telegram support bot that answers customer questions from a small set of help articles, using BM25 retrieval and the Claude API. When it is not sure, it hands the question to a human admin chat instead of guessing.
+A Telegram support bot that answers customer questions from a small set of help articles, using BM25 retrieval and the Claude API. When it is not sure, it tries to hand the question to a human admin chat instead of guessing. Its offline eval (below) still shows one missed escalation, and that is documented there.
 
 The help articles in [`docs/`](docs) describe **Parcelo**, a made-up parcel delivery company. All data in this repo is fictional.
 
